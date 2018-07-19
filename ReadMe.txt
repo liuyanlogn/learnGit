@@ -5,3 +5,5 @@ add1
 add2
 
 branch
+
+master
